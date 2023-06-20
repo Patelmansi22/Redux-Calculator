@@ -1,0 +1,8 @@
+.Operator {
+  background-color: #ff9500;
+}
+
+.Operator:hover {
+  background-color: #eee;
+  color: #ff9500;
+}
